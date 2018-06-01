@@ -1,0 +1,2 @@
+# blan-k
+Wordpress theme
